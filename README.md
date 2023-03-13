@@ -2,7 +2,7 @@
 ![a](./src/img/WeChat.png)
 
 ## 🔰 About
-### * WeChat is a realtime based chat application for users wher user can chat with different registered users.
+### * WeChat is a realtime based chat application for users where user can chat with different registered users.
 
 ## ⚙️ Tech Stack Used
 - [React JS](https://reactjs.org/) (States, Effects, Hooks, Props, Function Structure, JSX etc.)
@@ -38,6 +38,4 @@
 ## 📄 Credit
 - Vikas Kushwaha
 - Connect with me [LinkedIn](https://linkedin.com/in/vikas-kushwaha-165b95204)
-
-
 
