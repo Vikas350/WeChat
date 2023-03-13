@@ -80,7 +80,7 @@ const Search = () => {
   return (
     <div className="search">
       <div className="searchForm">
-
+        <span className="tip">Tip: Enter user name and click "SpaceBar"</span>
         <input
           type="text"
           placeholder="Find a user"

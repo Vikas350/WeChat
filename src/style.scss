@@ -554,3 +554,15 @@
 //     color: rgb(255, 255, 255);
 //   }
 // }
+
+.tip{
+  font-size: 10px;
+  color: rgb(8, 194, 8);
+  display: none;
+  @include mobile {
+    font-size: 7px;
+    display: flex;
+    text-align: center;
+
+  }
+}
