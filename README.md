@@ -20,7 +20,7 @@
 
 ## 🔗 Links
 ### * [Source Code](https://github.com/Vikas350/WeChat)
-### * Live Link - [WeChat](https://vikas-youtube-clone.netlify.app/)
+### * Live Link - [WeChat](https://vikas-wechat.netlify.app/)
 
 ## 🔶 Highlights
 - Register Page
