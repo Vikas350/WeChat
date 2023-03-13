@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# 💬 WeChat : a Realtime based Chat Application
+![a](./src/img/WeChat.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🔰 About
+### * WeChat is a realtime based chat application for users wher user can chat with different registered users.
 
-## Available Scripts
+## ⚙️ Tech Stack Used
+- [React JS](https://reactjs.org/) (States, Effects, Hooks, Props, Function Structure, JSX etc.)
+- [SASS](https://sass-lang.com/) (using SCSS syntax and mixins for designing)
+- [Firebase](https://firebase.google.com/) (For Backend Connectivity with login Authentication and Firestore Database)
 
-In the project directory, you can run:
+## 🌟 Features
+- User can Login/Register on WeChat by just entering first name, email, password and choosing an Avatar.
+- User can chat with differnt users by just searching the user name of other person.
+- You can Send Messages, Emojis and also send Images(< 300kb).
+- No other user can see the chat of between other 2 users.
+- Application is design using SASS framework and it is Fully Responsive.
+- Firebase Authentication is used for Login Activity.
+- All User and Chat Data is Stored in the Firestore Database.
 
-### `npm start`
+## 🔗 Links
+### * [Source Code](https://github.com/Vikas350/WeChat)
+### * Live Link - [WeChat](https://vikas-youtube-clone.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🔶 Highlights
+- Register Page
+![a](./pics/register.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Login Page
+![b](./pics/login.png)
 
-### `npm test`
+- Chat Homepage
+![c](./pics/chat.jpeg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Fully Responsive
+![d](./pics/phone_chat.jpeg)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
