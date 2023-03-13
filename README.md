@@ -35,5 +35,9 @@
 - Fully Responsive
 ![d](./pics/phone_chat.jpeg)
 
+## 📄 Credit
+- Vikas Kushwaha
+- Connect with me [LinkedIn](https://linkedin.com/in/vikas-kushwaha-165b95204)
+
 
 
